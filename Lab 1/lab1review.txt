@@ -1,0 +1,26 @@
+9 pts
+
+Summary:
+
+- The summary has poor quality. 37% of what you wrote comes exactly from the
+  article, and that is not good. You can see your report on iLearn/Turnitin.
+
+
+\LaTeX:
+
+- Good usage of tables and items. Good job!
+
+- When using tables, try to keep the \hline inline with the \\ to save row
+  space.
+
+- You should only use \begin{center} for text you want centered. The entire
+  document was centerd. That is wrong. You should remove all these tags unless
+  you want to center a specific part of your document.
+
+- When writing \LaTeX, try to keep every line of text within 80 characters or
+  100 at the most, then continue in a new line, \LaTeX will continue if you
+  break lines.
+
+- Dr. Rivas
+
+
