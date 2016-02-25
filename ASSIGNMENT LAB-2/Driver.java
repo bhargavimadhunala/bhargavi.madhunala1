@@ -1,13 +1,12 @@
 
 /**
- * Write a description of class Driver here.
+ * This is the main function
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Bhargavi) 
+ * @version (February 23, 2016)
  */
 import java.util.Scanner;
-public class Driver
-{
+public class Driver{
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         String thekey=input.nextLine();

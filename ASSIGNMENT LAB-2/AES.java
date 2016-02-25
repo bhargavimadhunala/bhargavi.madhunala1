@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class Rijndael here.
+ * AES Algorithm to generate 11 round keys
  * 
  * @author (Bhargavi) 
  * @version (february 23, 2016)
