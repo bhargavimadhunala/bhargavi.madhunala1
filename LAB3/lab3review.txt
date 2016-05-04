@@ -1,0 +1,23 @@
+7 pts
+
+Does if follow the specified coding style guidelines?
+ - no
+
+Does it produce correct output?
+ - yes
+
+Does it produce output in the correct format?
+ - yes
+
+Is all the code well-documented?
+ - no
+
+Is the code efficient?
+ - yes
+
+Are the test cases good?
+ - there were no test cases
+
+
+
+- Dr. Rivas
